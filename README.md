@@ -55,5 +55,4 @@ An intelligent **machine learning–based acoustic fault detection system** that
 
 ---
 
-## 📂 Project Structure
 
